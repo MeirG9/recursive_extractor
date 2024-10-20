@@ -22,4 +22,4 @@ A batch script for Windows that automates the extraction of compressed files (.r
 4. Run the script with the target folder path as an argument:
 
    ```bash
-   recursive_extractor.bat "C:\path\to\target\folder"
+   .\recursive_extractor.bat "C:\path\to\target\folder"
