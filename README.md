@@ -18,8 +18,8 @@ A batch script for Windows that automates the extraction of compressed files (.r
 
 1. Clone or download this repository to your local machine.
 2. Open a command prompt.
-3. Navigate to the directory containing the `Recursive Extractor.bat` script.
+3. Navigate to the directory containing the `recursive_extractor.bat` script.
 4. Run the script with the target folder path as an argument:
 
    ```bash
-   Recursive Extractor.bat "C:\path\to\target\folder"
+   recursive_extractor.bat "C:\path\to\target\folder"
